@@ -19,3 +19,9 @@ In the aforementioned article, Gwern states:
 >   ​	Regardless, it is a beautiful design pattern which has been used in many interesting ways over the millennia, and perhaps may inspire the reader.
 
 Essentially, Rubrication is a way to draw **attention** to the important stuff on the page. This makes it a good tool for note taking, as you can cut through the fluff and **find what you need**. 
+
+## Screenshots:
+
+![](https://github.com/sohalsdr/Rubrication-Typora/raw/master/README.png)
+---
+![](https://github.com/sohalsdr/Rubrication-Typora/raw/master/lorem-ipsum.png)
