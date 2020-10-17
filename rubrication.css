@@ -1,0 +1,81 @@
+/* Rubrication Typora Theme*/
+/* by sohalsdr */
+@import url('https://use.typekit.net/htb1dop.css');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/@typopro/web-iosevka@3.7.5/TypoPRO-Iosevka.min.css');
+
+body {
+     background-color: #fbfbfb;
+     color: black;
+     font-family: 'grad';
+     text-decoration-skip: none;
+     text-align: justify;
+}
+ h4, h5, h6, p, li, .cm-s-inner, .footnote-line {
+     font-size: 16px;
+}
+ h1, h2, h3 {
+     text-align: center;
+     color: red;
+}
+h1, h2, h3, h4, h5, h6 {
+     font-weight: bold;
+     font-family: 'PT Serif';
+}
+ h1 {
+     text-transform: uppercase;
+     font-size: 36px;
+}
+ h2, h3 {
+     font-size: 28px;
+ }
+ h2, h3, em, th, .cm-keyword {
+     text-decoration: underline;
+}
+ blockquote, strong {
+     color: red 
+}
+ strong {
+      font-weight: bold;
+ }
+ blockquote {
+     margin-left: 30px;
+     margin-right: 30px
+}
+a, .footnote-line {
+     color: #333;
+}
+ em, strong {
+     font-style: normal;
+}
+ ul {
+     list-style-type: square;
+}
+mark {
+     background-color: red;
+     color: #fbfbfb;
+    }
+ #write {
+     max-width: 60em
+}
+ #footer p {
+     border-top: 2px solid #fbfbfb;
+     margin-top: 10px;
+}
+
+/* Codes */
+ .cm-s-inner {
+     border-left: 2px solid red;
+     padding-left: 1em 
+}
+ .cm-s-inner * {
+     color: #333 !important 
+}
+code,
+.md-fences,
+tt {
+  font-family: 'TypoPRO Iosevka Term', monospace;
+}
+
+ 
+ 
